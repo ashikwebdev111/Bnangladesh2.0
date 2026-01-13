@@ -418,3 +418,57 @@ main {
     font-weight: 400;
     font-size: 20px;
 }
+
+.subscribe {
+    background-color: #C6E4D6;
+    border: 0;
+    border-radius: 24px;
+    padding: 80px 100px;
+    margin-top: 80px;
+}
+
+.subscribe h3 {
+    color: #0E0E0E;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+
+.subscribe p {
+    color: rgba(14, 14, 14, 0.7);
+    font-weight: 400;
+    font-size: 16px;
+    width: 622px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.subscribe-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 24px;
+}
+
+.subscribe-input input {
+    background-color: #FFFFFF;
+    border: 0;
+    width: 700px;
+    height: 50px;
+    border-radius: 16px 0 0 16px;
+    color: rgba(14, 14, 14, 0.3);
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.subscribe-input button {
+    border-radius: 0 16px 16px 0;
+}
+
+.promise {
+    margin-top: 24px;
+    color: rgba(14, 14, 14, 0.7);
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
