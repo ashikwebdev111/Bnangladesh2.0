@@ -472,3 +472,25 @@ main {
     font-size: 16px;
     text-align: center;
 }
+
+footer {
+    background-color: #FFFFFF;
+    border: 0;
+    padding: 50px 160px;
+    margin-top: 80px;
+}
+
+footer h3 {
+    color: #0E0E0E;
+    text-align: center;
+    font-weight: 700;
+    font-size: 32px;
+
+}
+
+.social-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 23px;
+}
